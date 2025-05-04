@@ -2,8 +2,8 @@ const CACHE_NAME = 'qrcode-app-cache-v1';
 const urlsToCache = [
   '/',
   '/index.html',
-  '/style.css',
-  '/script.js',
+  '/css/style.css',
+  '/js/script.js',
   '/icons/icon-192x192.png',
   '/icons/icon-512x512.png'
 ];
