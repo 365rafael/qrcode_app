@@ -35,3 +35,4 @@ function generateQRCode() {
     qrcodeContainer.appendChild(downloadBtn);
   });
 }
+
